@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.manipal.test.BaseTest" duration-ms="54" started-at="2018-10-26T01:10:29Z" finished-at="2018-10-26T01:10:29Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="54" started-at="2018-10-26T01:10:29Z" finished-at="2018-10-26T01:10:29Z">
+      <class name="com.manipal.test.BaseTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.manipal.test.BaseTest@6e6d5e]" name="test" duration-ms="21" started-at="2018-10-26T01:10:29Z" finished-at="2018-10-26T01:10:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.manipal.test.BaseTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.manipal.test.BaseTest -->
+</testng-results>
