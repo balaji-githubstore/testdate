@@ -9,6 +9,7 @@ public class BaseTest {
 	@Test
 	public void test()
 	{
+		System.out.println("-----------------------------------");
 		System.out.println("Tested developed at "+new Date());
 	}
 
